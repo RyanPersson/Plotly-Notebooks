@@ -1,0 +1,15 @@
+name: linear-algebra-class
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - chart-studio
+  - jupyter
+  - plotly
+  - numpy
+  - matplotlib
+  - ipywidgets
+  - sympy
+  - pandas
+  - scipy
+prefix: /home/ryan/anaconda3/envs/linear-algebra-class
